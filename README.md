@@ -41,14 +41,16 @@
 
 <br clear="both">
 
-
+<!-- ===== FOTO PROFILE TAMBAHAN (TANPA MENGURANGI APA PUN) ===== -->
+<p align="center">
+  <img src="github1.jpg" alt="rubuuu profile photo" width="220" />
+</p>
 
 ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rubuproject/rubuproject/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rubuproject/rubuproject/output/pacman-contribution-graph.svg">
-
 </picture>
 
 ###
@@ -56,4 +58,3 @@
 <p align="left">enjoyyyy!</p>
 
 ###
-
