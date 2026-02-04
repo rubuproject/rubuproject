@@ -43,7 +43,7 @@
 
 <!-- ===== FOTO PROFILE TAMBAHAN (TANPA MENGURANGI APA PUN) ===== -->
 <p align="center">
-  <img src="github1.jpg" alt="rubuuu profile photo" width="500" />
+  <img src="github1.jpg" alt="rubuuu profile photo" width="500" align="left" />
 </p>
 
 ###
