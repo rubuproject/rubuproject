@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img src="https://image2url.com/r2/default/images/1770224726651-7487c47d-22ad-4756-8c5b-5508de718206.jpg" alt="Snake animation" />
+
 
 ###
 
