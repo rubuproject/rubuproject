@@ -43,7 +43,19 @@
 
 <!-- ===== FOTO PROFILE TAMBAHAN (TANPA MENGURANGI APA PUN) ===== -->
 <p align="center">
-  <img src="github1.jpg" alt="rubuuu profile photo" width="450" align="left" />
+  <img 
+    src="github1.jpg"
+    alt="rubuuu profile photo"
+    width="450"
+    align="left"
+    style="
+      border-radius: 16px;
+      box-shadow:
+        0 18px 35px rgba(0,0,0,0.45),
+        0 8px 15px rgba(0,0,0,0.3);
+      transform: perspective(900px) rotateY(-8deg) rotateX(4deg);
+    "
+  />
 </p>
 
 ###
