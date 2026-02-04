@@ -49,14 +49,24 @@
     width="450"
     align="left"
     style="
-      border-radius: 16px;
+      border-radius: 18px;
+      /* BAYANGAN DALAM & DALAM LAGI */
       box-shadow:
-        0 18px 35px rgba(0,0,0,0.45),
-        0 8px 15px rgba(0,0,0,0.3);
-      transform: perspective(900px) rotateY(-8deg) rotateX(4deg);
+        0 25px 60px rgba(0,0,0,0.65),
+        0 10px 25px rgba(0,0,0,0.45),
+        inset 0 0 15px rgba(255,255,255,0.08);
+      /* INTI EFEK 3D */
+      transform:
+        perspective(1400px)
+        rotateY(-18deg)
+        rotateX(8deg)
+        translateZ(40px);
+      filter: drop-shadow(0 0 18px rgba(0, 150, 255, 0.25));
+      transition: transform 0.4s ease, box-shadow 0.4s ease;
     "
   />
 </p>
+
 
 ###
 
