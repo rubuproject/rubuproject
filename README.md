@@ -69,11 +69,11 @@
   />
 </p>
 
-<p align="center">
+<p align="right">
   <img 
     src="github1.jpg"
     alt="rubuuu profile photo"
-    width="500"
+    width="460"
     align="right"
     style="
       border-radius: 18px;
