@@ -69,16 +69,34 @@
   />
 </p>
 
- 0.08);
-      /* INTI EFEK 3D */
-      transform:
-        perspective(1400px)
-        rotateY(-18deg)
-        rotateX(8deg)
-        translateZ(40px);
-      filter: drop-shadow(0 0 18px rgba(0, 150, 255, 0.25));
-      transition: transform 0.4s ease, box-shadow 0.4s ease;
-    "
+### 🛠️ Tech Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Basic" />
+  
+  <br><br> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Basic" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Basic" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+  <br><br> <img src="https://img.shields.io/badge/Drawing-black?style=for-the-badge&logo=paint.net&logoColor=white" alt="Drawing" /> 🎨
+  <img src="https://img.shields.io/badge/Digital%20Art-purple?style=for-the-badge&logo=adobe&logoColor=white" alt="Digital Art" />
+  <img src="https://img.shields.io/badge/Music-red?style=for-the-badge&logo=spotify&logoColor=white" alt="Music Performance" /> 🎸
+</div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Basic" />
+  
+  <br><br> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Basic" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Basic" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+  <br><br> <img src="https://img.shields.io/badge/Drawing-black?style=for-the-badge&logo=paint.net&logoColor=white" alt="Drawing" /> 🎨
+  <img src="https://img.shields.io/badge/Digital%20Art-purple?style=for-the-badge&logo=adobe&logoColor=white" alt="Digital Art" />
+  <img src="https://img.shields.io/badge/Music-red?style=for-the-badge&logo=spotify&logoColor=white" alt="Music Performance" /> 🎸
+</div>
   />
 </p>
 <div align="right">
