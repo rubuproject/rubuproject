@@ -71,7 +71,7 @@
 
 <p align="right">
   <img 
-    src="github1.jpg"
+    src="vs code.jpg"
     alt="rubuuu profile photo"
     width="158"
     align="right"
