@@ -83,12 +83,7 @@
 </div>
 
 <div align="left">
-/>
 
-  <br><br> <img src="https://img.shields.io/badge/Drawing-black?style=for-the-badge&logo=paint.net&logoColor=white" alt="Drawing" /> 🎨
-  <img src="https://img.shields.io/badge/Digital%20Art-purple?style=for-the-badge&logo=adobe&logoColor=white" alt="Digital Art" />
-  <img src="https://img.shields.io/badge/Music-red?style=for-the-badge&logo=spotify&logoColor=white" alt="Music Performance" /> 🎸
-</div>
   />
 </p>
 <div align="right">
