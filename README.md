@@ -83,10 +83,7 @@
 </div>
 
 <div align="left">
-
-  <br><br> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Basic" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Basic" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+/>
 
   <br><br> <img src="https://img.shields.io/badge/Drawing-black?style=for-the-badge&logo=paint.net&logoColor=white" alt="Drawing" /> 🎨
   <img src="https://img.shields.io/badge/Digital%20Art-purple?style=for-the-badge&logo=adobe&logoColor=white" alt="Digital Art" />
