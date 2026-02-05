@@ -71,8 +71,6 @@
 
 ### 🛠️ Tech Stack
 <div align="left">
-
-  
   <br><br> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Basic" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Basic" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -82,9 +80,6 @@
   <img src="https://img.shields.io/badge/Music-red?style=for-the-badge&logo=spotify&logoColor=white" alt="Music Performance" /> 🎸
 </div>
 
-<div align="left">
-
-  />
 </p>
 <div align="right">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
