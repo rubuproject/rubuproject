@@ -83,13 +83,7 @@
 ###
 
 ![Snake Animation](https://raw.githubusercontent.com/rubuproject/rubuproject/output/snake.svg)
-###
 
-
-![Header Animasi](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50)
-
-### Sedang Mengerjakan:
-![Demo Projek]()
 ###
 
 ![Pacman Animation](https://raw.githubusercontent.com/rubuproject/rubuproject/output/pacman-contribution.svg)
