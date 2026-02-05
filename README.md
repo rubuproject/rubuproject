@@ -71,8 +71,8 @@
 
 
 ###
-<img align="center" height="250"  width="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czVkbTIwYXB0MGUzdWlzY2l5bG1ibGJtNHVzbjQ3ZWkyZWViYnpycCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/rLe3Vh7quQaHU0XiJL/giphy.gif"  />
-###
+<img align="center" height="250"  width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czVkbTIwYXB0MGUzdWlzY2l5bG1ibGJtNHVzbjQ3ZWkyZWViYnpycCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/rLe3Vh7quQaHU0XiJL/giphy.gif"  />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rubuproject/rubuproject/output/pacman-contribution-graph-dark.svg">
