@@ -79,4 +79,9 @@
 
 <p align="left"></p>
 
+
 ###
+
+![Snake Animation](https://raw.githubusercontent.com/rubuproject/rubuproject/output/snake.svg)
+###
+
