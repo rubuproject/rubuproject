@@ -48,7 +48,7 @@
   <img 
     src="github1.jpg"
     alt="rubuuu profile photo"
-    width="450"
+    width="480"
     align="left"
     style="
       border-radius: 18px;
@@ -96,7 +96,7 @@
 
 
 ###
-<img align="down" height="150"  width="" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czVkbTIwYXB0MGUzdWlzY2l5bG1ibGJtNHVzbjQ3ZWkyZWViYnpycCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/rLe3Vh7quQaHU0XiJL/giphy.gif"  />
+<img align="down" align="right" height="150"  width="" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czVkbTIwYXB0MGUzdWlzY2l5bG1ibGJtNHVzbjQ3ZWkyZWViYnpycCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/rLe3Vh7quQaHU0XiJL/giphy.gif"  />
 
 
 <picture>
