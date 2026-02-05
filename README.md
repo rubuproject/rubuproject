@@ -71,9 +71,9 @@
 
 <p align="right">
   <img 
-    src="vs code.jpg"
+    src="vscode.jpg"
     alt="rubuuu profile photo"
-    width="158"
+    width="128"
     align="right"
     style="
       border-radius: 18px;
