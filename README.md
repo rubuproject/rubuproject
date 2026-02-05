@@ -69,10 +69,7 @@
   />
 </p>
 
-<p align="right">
-  <img 
-    src=""
-    alt="rubuuu profile photo"
+ photo"
     width="50"
      height="120"
     align="right"
