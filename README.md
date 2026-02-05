@@ -69,10 +69,7 @@
   />
 </p>
 
- 
-        0 25px 60px rgba(0,0,0,0.65),
-        0 10px 25px rgba(0,0,0,0.45),
-        inset 0 0 15px rgba(255,255,255,0.08);
+ 0.08);
       /* INTI EFEK 3D */
       transform:
         perspective(1400px)
