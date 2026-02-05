@@ -74,7 +74,7 @@
     src="github1.jpg"
     alt="rubuuu profile photo"
     width="450"
-    align="left"
+    align="center"
     style="
       border-radius: 18px;
       /* BAYANGAN DALAM & DALAM LAGI */
