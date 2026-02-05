@@ -73,7 +73,8 @@
   <img 
     src="vscode.jpg"
     alt="rubuuu profile photo"
-    width="128"
+    width="108"
+     height="120"
     align="right"
     style="
       border-radius: 18px;
