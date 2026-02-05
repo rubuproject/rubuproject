@@ -71,7 +71,7 @@
 
 <p align="right">
   <img 
-    src="vscode.jpg"
+    src=""
     alt="rubuuu profile photo"
     width="50"
      height="120"
