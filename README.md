@@ -73,7 +73,7 @@
   <img 
     src="github1.jpg"
     alt="rubuuu profile photo"
-    width="450"
+    width="500"
     align="right"
     style="
       border-radius: 18px;
