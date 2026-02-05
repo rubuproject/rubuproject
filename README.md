@@ -84,4 +84,6 @@
 
 ![Snake Animation](https://raw.githubusercontent.com/rubuproject/rubuproject/output/snake.svg)
 ###
+![Pacman Animation](https://raw.githubusercontent.com/rubuproject/rubuproject/output/pacman-contribution.svg)
+###
 
