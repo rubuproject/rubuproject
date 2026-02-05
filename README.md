@@ -69,14 +69,7 @@
   />
 </p>
 
- photo"
-    width="50"
-     height="120"
-    align="right"
-    style="
-      border-radius: 18px;
-      /* BAYANGAN DALAM & DALAM LAGI */
-      box-shadow:
+ 
         0 25px 60px rgba(0,0,0,0.65),
         0 10px 25px rgba(0,0,0,0.45),
         inset 0 0 15px rgba(255,255,255,0.08);
