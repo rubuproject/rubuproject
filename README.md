@@ -51,9 +51,6 @@
 
 ### 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rubuproject&theme=tokyonight&hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
 
 ---
 
