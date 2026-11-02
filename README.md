@@ -48,9 +48,7 @@
 </p>
 
 ---
-
 ### 📈 Contribution Graph
-
 
 ---
 
