@@ -3,7 +3,6 @@
   <b>Informatics Student @ UTDI | Aspiring AI Engineer & Software Developer</b>
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E67F8&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+AI+%26+Software;Exploring+Web+Dev%2C+Data+%26+Game+Dev" alt="Typing SVG" />
 </p>
